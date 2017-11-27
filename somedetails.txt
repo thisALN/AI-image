@@ -1,0 +1,16 @@
+nalyze and detect:
+	patterns
+	shapes
+	3D models
+	reflectivity
+in images and videos.
+Videos can find the progression of a pattern over time.
+Algorithm needs no training, can find patterns and learn how to work with more complex types over time.
+Should be able to work with:
+	photos
+	videos
+	audio
+	text
+	any other file type
+
+
